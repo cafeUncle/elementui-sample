@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="zhexiantu" unicode="&#59571;" d="M970.105263-74.105263H53.894737V842.105263h53.894737v-862.315789h862.315789zM668.294737 55.242105l-167.073684 161.684211H107.789474v53.894737h414.989473l145.51579-140.126316 140.126316 140.126316h161.68421v-53.894737h-140.126316zM107.789474 346.273684l-37.726316 37.726316L377.263158 691.2l215.578947-215.578947 323.368421 323.368421 37.726316-37.726316L592.842105 400.168421l-215.578947 215.578947z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

@@ -1,0 +1,89 @@
+[
+  {
+    "cols": [
+      [
+        "fetch_count",
+        1287
+      ],
+      [
+        "discard_times",
+        13
+      ],
+      [
+        "discard_count",
+        1089
+      ],
+      [
+        "filtered_reason_count:25",
+        185
+      ],
+      [
+        "filtered_reason_count:39",
+        13
+      ],
+      [
+        "fetch_times",
+        13
+      ]
+    ],
+    "key": "78:2020042217"
+  },
+  {
+    "cols": [
+      [
+        "fetch_count",
+        1287
+      ],
+      [
+        "discard_times",
+        13
+      ],
+      [
+        "discard_count",
+        1089
+      ],
+      [
+        "filtered_reason_count:25",
+        185
+      ],
+      [
+        "filtered_reason_count:39",
+        13
+      ],
+      [
+        "fetch_times",
+        13
+      ]
+    ],
+    "key": "78:2020042218"
+  },
+  {
+    "cols": [
+      [
+        "fetch_count",
+        1287
+      ],
+      [
+        "discard_times",
+        13
+      ],
+      [
+        "discard_count",
+        1089
+      ],
+      [
+        "filtered_reason_count:25",
+        185
+      ],
+      [
+        "filtered_reason_count:39",
+        13
+      ],
+      [
+        "fetch_times",
+        13
+      ]
+    ],
+    "key": "78:2020042217"
+  }
+]
